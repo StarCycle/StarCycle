@@ -10,7 +10,6 @@ I work in an intersection of AI, robotics, and space exploration. I build system
     - I am contributing to the HuggingFace [LeRobot](https://github.com/huggingface/lerobot) toolbox, including integration of the Florence policy.
     - I am participating the [1x challenge](https://github.com/1x-technologies/1xgpt) to train video generation model for robotics manipulation.
     - I developed some VLM ranged from 2B~8B, please check [My HuggingFace Page](https://huggingface.co/StarCycle).
-- 🔭 **I am seeking a PhD vacancy on AI+robotics.**
 - 📫 Reach me: My [email](zhuohengli@foxmail.com) or Wechat: StarRingSpace.
 - 🌱 My profile: [Linkedin](https://www.linkedin.com/in/lizhuoheng/) and [my personal website](https://www.still-under-development.com/in/lizhuoheng/).
 
