@@ -2,6 +2,8 @@
 
 I work in an intersection of AI, robotics, and space exploration. I build systems for you ヾ(^▽^*)) so feel free to ask me if you have any question!
 
+Currently I am a PhD candidate at the University of Hong Kong supervised by [Hongyang Li](https://scholar.google.com.hk/citations?user=Hfrih1EAAAAJ&hl=en) and co-supervised by [Ping Luo](https://scholar.google.com.hk/citations?user=aXdjxb4AAAAJ&hl=en). 
+
 - ⚡ Recent works: Train a generalized policy / video generation model for robotics manipulation.
     -  [GR1-Training](https://github.com/EDiRobotics/GR1-Training) is the current SOTA policy on CALVIN benchmark for multi-task robotics manipulation (ABC-D split).
     -  [MimicTest](https://github.com/EDiRobotics/mimictest) integrates some of my policies, including Florence Policy developed on Microsoft's Florence2 VLM, which is trained with VQA, OCR, detection and segmentation tasks on 900M images.
